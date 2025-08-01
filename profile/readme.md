@@ -1,7 +1,7 @@
 ## our team
 
-|    ![newt](team/newt.webp)    | ![lexi](team/lexi.webp)              |              ![lucy](team/lucy.webp)              |
-| :---------------------------: | ------------------------------------ | :-----------------------------------------------: |
+|    ![newt](team/newt.webp)    |       ![lexi](team/lexi.webp)        |              ![lucy](team/lucy.webp)              |
+| :---------------------------: | :----------------------------------: | :-----------------------------------------------: |
 | [**newt**](https://newty.dev) | [**lexi**](https://abstralexis.dev/) | [**lucy blight**](https://firefallowgames.co.uk/) |
 
 ## our games
